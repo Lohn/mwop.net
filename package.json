@@ -12,7 +12,7 @@
   "dependencies": {
     "autocomplete.js": "^0.32.0",
     "bootstrap": "^4.5.1",
-    "bootswatch": "^4.5.1",
+    "bootswatch": "^4.5.3",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-uglify": "^2.0.0",
     "grunt-contrib-uglify-es": "github:gruntjs/grunt-contrib-uglify#harmony",
