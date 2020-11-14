@@ -10,7 +10,7 @@
     "sw-precache": "^4.0.0"
   },
   "dependencies": {
-    "autocomplete.js": "^0.32.0",
+    "autocomplete.js": "^0.38.0",
     "bootstrap": "^4.5.1",
     "bootswatch": "^4.5.1",
     "grunt-contrib-concat": "^1.0.1",
